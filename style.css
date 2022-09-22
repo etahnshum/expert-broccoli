@@ -37,4 +37,10 @@ iframe {
   width:69px;
   height:420px;
 }
+.disappear {
+  display:inline;
+}
+.disappear:hover {
+  display:none;
+}
   
