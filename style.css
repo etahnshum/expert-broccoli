@@ -25,3 +25,7 @@ body {
   transform:rotate(222deg);
   display:inline;
 }
+header h1 {
+  color:lightyellow;
+  text-align:justified;
+}
