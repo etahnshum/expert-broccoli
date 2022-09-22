@@ -19,7 +19,7 @@ body {
 }
 #rotate {
   color:blue;
-  font-size:6px;
+  font-size:1px;
 }
 #rotate:hover {
   transform:rotate(222deg);
