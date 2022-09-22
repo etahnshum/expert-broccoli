@@ -21,4 +21,5 @@ body {
 }
 #rotate:hover {
   transform:rotate(222deg);
+  display:inline;
 }
