@@ -1,11 +1,18 @@
 body {
   background-color:black;
 }
-p {
-  color:DarkBrown;
+.goofy-ah {
+  color:white;
   font-size:69px;
   display:inline;
 }
-p:hover {
+.goofy-ah:hover {
   display:none;
+}
+.descrip {
+  color:Crimson;
+  text-align:right;
+}
+.descrip:active::after {
+  content:"It was fun";
 }
