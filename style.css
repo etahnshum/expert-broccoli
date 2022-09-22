@@ -16,3 +16,9 @@ body {
 .descrip:active::after {
   content:"It was fun";
 }
+#rotate {
+  color:blue;
+}
+#rotate:hover {
+  transform:rotate(222deg);
+}
