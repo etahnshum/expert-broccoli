@@ -1,11 +1,12 @@
 body {
   background-color:black;
 }
-.goofy-ah {
+.goofy-ah p {
   color:white;
   font-size:69px;
   display:inline;
 }
+
 .goofy-ah:hover {
   display:none;
 }
