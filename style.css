@@ -43,4 +43,8 @@ iframe {
 .disappear:hover {
   display:none;
 }
+.link {
+  text-decoration:none;
+  color:white;
+}
   
