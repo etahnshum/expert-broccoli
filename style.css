@@ -2,7 +2,6 @@ body {
   background-color:black;
 }
 .goofy-ah p {
-  color:white;
   font-size:69px;
   display:inline;
 }
@@ -29,3 +28,11 @@ header h1 {
   color:lightyellow;
   text-align:justified;
 }
+p {
+  color:white;
+}
+iframe {
+  width:100px;
+  height:20px;
+}
+  
