@@ -9,7 +9,7 @@ body {
 .goofy-ah:hover {
   display:none;
 }
-.descrip > p{
+.descrip p, .descrip div{
   color:Crimson;
   text-align:right;
   font-size:21px;
