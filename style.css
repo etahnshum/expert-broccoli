@@ -15,7 +15,7 @@ body {
   font-size:21px;
   font-family:sans-serif;
 }
-.descrip:active::after {
+.descrip > div:active::after {
   content:"It was fun. Improving ice skate skills every year moment  but why was it the beach again\ at least we dug massive hole";
 }
 #rotate {
