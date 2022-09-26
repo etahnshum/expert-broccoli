@@ -53,3 +53,7 @@ section h4 {
 .source {
   font-size:11px;
 }
+.img {
+  border-style:groove;
+  border-color:palegreen;
+}
