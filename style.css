@@ -50,6 +50,7 @@ iframe {
 .link {
   text-decoration:none;
   color:white;
+  cursor:pointer;
 }
 section h4 {
   color:green;
