@@ -7,7 +7,8 @@ body {
 }
 
 .goofy-ah:hover {
-  display:none;
+  color:skyblue;
+  display:block;
 }
 .descrip p, .descrip div{
   color:Crimson;
