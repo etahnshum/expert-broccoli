@@ -16,7 +16,7 @@ body {
   font-family:sans-serif;
 }
 .descrip > div:active::after {
-  content:"It was fun. Improving ice skate skills every year moment  but why was it the beach again\ at least we dug massive hole";
+  content:" It was fun. I feel like I am mproving ice skate skills every year by not sticking to the wall so much. But why was it the beach again, at least we dug a massive hole";
 }
 #rotate {
   color:blue;
