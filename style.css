@@ -62,3 +62,7 @@ img {
   border-style:groove;
   border-color:palegreen;
 }
+.sched {
+  color:orange;
+  background-color:white;
+}
