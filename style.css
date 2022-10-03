@@ -75,6 +75,7 @@ img {
 }
 .expand {
     letter-spacing:-20px;
+    transition: letter-spacing 2s;
 }
 .expand:hover {
   letter-spacing:10px;
