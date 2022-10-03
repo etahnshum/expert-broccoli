@@ -5,11 +5,6 @@ body {
   font-size:69px;
   display:inline;
 }
-
-.goofy-ah p:hover {
-  color:skyblue;
-  display:block;
-}
 .descrip p, .descrip div{
   color:Crimson;
   text-align:right;
@@ -79,10 +74,11 @@ img {
 }
 .expand {
     letter-spacing:-20px;
-    transition: letter-spacing 2s;
+    transition: letter-spacing 2s, color 2s;
 }
 .expand:hover {
   letter-spacing:10px;
+  color:skyblue;
 }
 .header {
   min-height:500px;
