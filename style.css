@@ -84,5 +84,7 @@ img {
 .expand:hover {
   letter-spacing:10px;
 }
-  
+.header {
+  min-height:500px;
+  }
   
