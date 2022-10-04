@@ -4,6 +4,7 @@ body {
 .goofy-ah p {
   font-size:69px;
   display:inline;
+  min-height:333px;
 }
 .descrip p, .descrip div{
   color:Crimson;
@@ -79,10 +80,8 @@ img {
     color:white;
 }
 .expand:hover {
-  letter-spacing:10px;
+  letter-spacing:5px;
   color:skyblue;
 }
-.header {
-  min-height:500px;
-  }
+
   
