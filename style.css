@@ -69,7 +69,7 @@ img {
 }
 img:hover {
   opacity:1;
-  filter:brightness(1000%);
+  filter:brightness(101%);
 }
 .sched {
   color:orange;
