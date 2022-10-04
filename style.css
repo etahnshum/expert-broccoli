@@ -64,10 +64,12 @@ img {
   border-style:groove;
   border-color:palegreen;
   opacity:0.2;
-  transform:opacity 2s;
+  filter:brightness(20%);
+  transition:opacity 2s, filter 2s;
 }
 img:hover {
   opacity:1;
+  filter:brightness(1000%);
 }
 .sched {
   color:orange;
