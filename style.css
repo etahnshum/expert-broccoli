@@ -32,13 +32,11 @@ body {
   color:lightyellow;
   text-align:justified;
   width:200px;
-  float:left;
-  transition:transform 2s, color 3s, float 2s;
+  transition:transform 2s, color 3s;
 }
 #cool:hover {
   color:brown;
   transform:rotateY(359deg);
-  float:right;
 }
 p {
   color:white;
