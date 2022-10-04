@@ -31,11 +31,13 @@ body {
   color:lightyellow;
   text-align:justified;
   width:200px;
-  transition:transform 2s, color 3s;
+  float:left;
+  transition:transform 2s, color 3s, float 2s;
 }
 #cool:hover {
   color:brown;
   transform:rotateY(359deg);
+  float:right;
 }
 p {
   color:white;
