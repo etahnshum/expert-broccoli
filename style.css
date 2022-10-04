@@ -73,7 +73,7 @@ img {
   color:palegoldenrod;
   background-color:orchid;
   font-family:papyrus;
-  animation: rotate 10s infinite;
+  animation: rotate 10s infinite alternate;
 }
 .expand {
     letter-spacing:-20px;
