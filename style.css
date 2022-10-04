@@ -86,6 +86,6 @@ img {
 }
 @keyframes rotate {
   from{float:left;}
-  to {float:right; transform:rotate(60deg);}
+  to {float:right; transform:rotate(15deg);}
 }
   
