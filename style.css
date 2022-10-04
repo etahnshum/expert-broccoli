@@ -63,6 +63,11 @@ section h4 {
 img {
   border-style:groove;
   border-color:palegreen;
+  opacity:0.2;
+  transform:opacity 2s;
+}
+img:hover {
+  opacity:1;
 }
 .sched {
   color:orange;
