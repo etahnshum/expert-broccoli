@@ -30,6 +30,7 @@ body {
 #cool {
   color:lightyellow;
   text-align:justified;
+  width:200px;
   transition:transform 2s, color 3s;
 }
 #cool:hover {
