@@ -14,7 +14,8 @@ body {
 }
 .descrip {
   background-color:yellowgreen;
-  margin:4px;
+  margin:12px;
+  padding:10px;
 }
 .descrip > div:active::after {
   content:" It was fun. I feel like I am mproving ice skate skills every year by not sticking to the wall so much. But why was it the beach again, at least we dug a massive hole";
