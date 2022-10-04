@@ -34,7 +34,7 @@ body {
 }
 #cool:hover {
   color:brown;
-  transform:rotateY(222deg);
+  transform:rotateY(359deg);
 }
 p {
   color:white;
@@ -73,6 +73,7 @@ img {
   color:palegoldenrod;
   background-color:orchid;
   font-family:papyrus;
+  animation: rotate 10s infinite;
 }
 .expand {
     letter-spacing:-20px;
@@ -83,5 +84,8 @@ img {
   letter-spacing:5px;
   color:skyblue;
 }
-
+@keyframes rotate {
+  from{float:left;}
+  to {float:right; transform:rotate(180deg);}
+}
   
