@@ -94,10 +94,10 @@ img:hover {
 }
 @keyframes rotate {
   from{float:left;}
-  to {float:right; transform:rotate(3deg);}
+  to {float:right; transform:rotate(2deg);}
 }
 @keyframes schedule {
   0% {filter:grayscale(0%)}
-  50% {transform:rotate(0.2deg);}
-  100%{filter:grayscale(100%);transform:rotate(-0.2deg);}
+  50% {transform:rotate(0.1deg);}
+  100%{filter:grayscale(100%);transform:rotate(-0.1deg);}
 }
