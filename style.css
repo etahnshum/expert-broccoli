@@ -77,14 +77,14 @@ img:hover {
   color:orange;
   background-color:white;
   font-family:courier;
-  animation: schedule 0.1s infinite;
+  animation: schedule 0.1s infinite alternate;
 }
 .highlight {
   color:palegoldenrod;
   background-color:orchid;
   font-family:papyrus;
   float:right;
-  animation: rotate 15s infinite;
+  animation: rotate 15s infinite alternate;
 }
 .expand {
     letter-spacing:-20px;
@@ -96,12 +96,10 @@ img:hover {
   color:skyblue;
 }
 @keyframes rotate {
-  0% {transform:rotate(-2deg)}
-  50% { transform:rotate(4deg);}
-  100% {transform:rotate(-4deg);}
+  from {transform:rotate(-1deg)}
+  to {transform:rotate(1deg);}
 }
 @keyframes schedule {
-  0% {filter:grayscale(0%);transform:rotate(-0.1deg)}
-  50% {transform:rotate(0.2deg);}
-  100%{filter:grayscale(100%);transform:rotate(-0.2deg);}
+  from {filter:grayscale(0%);transform:rotate(-0.1deg)}
+  to {filter:grayscale(100%);transform:rotate(0.1deg);}
 }
