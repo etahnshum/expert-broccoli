@@ -95,7 +95,7 @@ img:hover {
   color:skyblue;
 }
 @keyframes rotate {
-  from{float:left;}
+  from{float:right;}
   to {float:right; transform:rotate(2deg);}
 }
 @keyframes schedule {
