@@ -76,7 +76,7 @@ img:hover {
   background-color:orchid;
   font-family:papyrus;
   float:right;
-  animation: rotate 15s infinite alternate;
+  animation: rotate 8s infinite alternate;
 }
 .expand {
     letter-spacing:-20px;
