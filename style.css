@@ -28,7 +28,7 @@ body {
 }
 #cool:hover {
   color:brown;
-  transform:rotateY(359deg);
+  transform:rotateY(359deg) rotateX(361deg) rotateZ(-360deg);
 }
 p {
   color:white;
