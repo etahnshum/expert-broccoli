@@ -17,7 +17,11 @@ body {
   margin:12px;
   padding:10px;
 }
-.descrip > div:active::after {
+#button {
+  length:444px;
+  background-color:orange;
+}
+#button::after {
   content:" It was fun. I feel like I am very slowly improving ice skate skills every year by not sticking to the wall so much.";
 }
 #cool {
