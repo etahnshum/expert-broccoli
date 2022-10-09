@@ -76,6 +76,8 @@ img:hover {
   background-color:orchid;
   font-family:papyrus;
   float:right;
+  padding:10px;
+  margin:5px;
   animation: rotate 8s infinite alternate;
 }
 .expand {
